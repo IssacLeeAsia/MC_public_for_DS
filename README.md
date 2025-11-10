@@ -1,2 +1,2 @@
-# MC_public_for_DS
+# Hi, there!
 This is the public repository for MC's data science courses
